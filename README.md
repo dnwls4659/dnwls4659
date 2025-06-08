@@ -1,5 +1,9 @@
 ## Jang Woo Jin
 
+### 📚 Development Study History
+
+[Wiki](https://github.com/dnwls16071/Backend_Study_TIL/wiki)
+
 ### 💻 Career
 
 |Department|Position|
