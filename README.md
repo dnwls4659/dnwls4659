@@ -2,7 +2,7 @@
 
 ### 📚 Development Study History
 
-[Wiki](https://github.com/dnwls16071/Backend_Study_TIL/wiki)
+[dnwls16071 - Wiki](https://github.com/dnwls16071/Backend_Study_TIL/wiki)
 
 ### 💻 Career
 
