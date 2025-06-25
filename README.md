@@ -65,6 +65,7 @@
 ### ❓Current Interests
 
 * Java
+* IaC(Infrastructure as Code)
 * Restful API Design
 * Communication Skill
 * Spring Ecosystem
