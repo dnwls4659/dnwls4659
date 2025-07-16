@@ -1,9 +1,8 @@
-## Jang Woo Jin
+## Server Engineer - Jang Woo Jin
 
 ### 📚 Development Study History
 
 * **[dnwls16071 - Wiki](https://github.com/dnwls16071/Backend_Study_TIL/wiki)<br>**
-* **[dnwls4659 - Wiki](https://github.com/dnwls4659/Hands-On-Experience-TIL/wiki)<br>**
 
 ### 💻 Career
 
@@ -39,11 +38,20 @@
 </div>
 
 <div align="left">
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 
 <div align="left">
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+### ✨ Current Study Topics
+
+<div align="left">
+   <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
 
