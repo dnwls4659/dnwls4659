@@ -45,6 +45,10 @@
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
+<div align="left">
+   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+</div>
+
 ### ✨ Current Study Topics
 
 <div align="left">
