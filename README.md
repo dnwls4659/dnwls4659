@@ -57,7 +57,6 @@
 </div>
 <div align="left">
    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
 ### 🛠 Tools
